@@ -1,3 +1,3 @@
-# PythonBasicCodes
-These codes are meant for beginners in Python coding! 
-I hope you find it useful =)!
+### Thiz folder includes the basic codes in Python. These codes are meant for beginners! 
+### In the 'DS projects' folder, you will find more advanced python notebooks.
+I hope you find them useful =)!
