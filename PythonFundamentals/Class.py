@@ -1,6 +1,6 @@
 #Python is object-oriented programming language 
 #We put functions inside classes, and call classes to call functions
-#In that way, we can call functions as many times as we want without interfering between valeus 
+#In that way, we can call functions as many times as we want without interfering between values 
 class person:
     """Create a new person """
     #A variable inside a class is called an attribute 
